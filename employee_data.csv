@@ -1,0 +1,21 @@
+employee_id,name,gender,city,department,job_title,salary
+1001,Aarav Sharma,Male,Pune,IT,Data Engineer,65000.0
+1002,Priya Patel,Female,Mumbai,HR,HR Executive,42000.0
+1003,Rohan Deshmukh,Male,Pune,Finance,Accountant,48000.0
+1004,Sneha Kulkarni,Female,Nashik,IT,Python Developer,72000.0
+1005,Vikram Singh,Male,Delhi,Sales,Sales Executive,39000.0
+1006,Ananya Joshi,Female,Pune,Marketing,Marketing Analyst,51000.0
+1007,Karan Mehta,Male,Mumbai,IT,Cloud Engineer,80000.0
+1008,Isha Nair,Female,Bengaluru,Finance,Financial Analyst,58000.0
+1009,Aditya Pawar,Male,Pune,,Data Analyst,55000.0
+1010,Meera Shah,Female,Ahmedabad,HR,Recruiter,
+1011,Rahul Verma,Male,,IT,Software Engineer,69000.0
+1012,Kavya Rao,Female,Hyderabad,Sales,,44000.0
+1013,Siddharth More,Male,Pune,Operations,Operations Executive,46000.0
+1014,Neha Gupta,Female,Delhi,IT,Database Administrator,75000.0
+1015,Manish Yadav,Male,Jaipur,Marketing,SEO Specialist,
+1016,Pooja Iyer,Female,Chennai,,Business Analyst,62000.0
+1017,Arjun Desai,Male,Mumbai,Finance,Tax Associate,47000.0
+1018,Riya Chavan,Female,,HR,HR Coordinator,41000.0
+1019,Nikhil Joshi,Male,Pune,IT,ETL Developer,71000.0
+1020,Diya Menon,Female,Kochi,Operations,,49000.0
