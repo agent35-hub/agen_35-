@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,unit_price,unit_cost,stock_quantity,supplier_id,is_active
+1001,Zentra Headphones,Electronics,Zentra,12319.1,6145.24,52,44,true
+1002,Nova Cricket Bat,Sports,Nova,1585.88,835.0,258,39,true
+1003,Everday Dumbbells,Sports,Everday,11098.99,7283.63,414,1,true
+1004,Zentra Shampoo,Beauty,Zentra,7857.43,6168.28,172,7,true
+1005,Pulse Face Wash,Beauty,Pulse,42388.97,28032.0,413,3,false
+1006,Everday Yoga Mat,Sports,Everday,4031.13,2227.65,321,40,true
+1007,UrbanNest Dumbbells,Sports,UrbanNest,2385.64,1263.83,148,6,true
+1008,Zentra Monitor,Electronics,Zentra,22724.17,16859.94,83,24,true
+1009,Zentra Bedsheet,Home,Zentra,35119.83,24206.05,36,39,true
+1010,Apex Dumbbells,Sports,Apex,23165.78,12613.34,473,41,true
+1011,Brightly T-Shirt,Fashion,Brightly,41106.95,30080.67,205,18,true
+1012,Pulse Cookware Set,Home,Pulse,10709.06,6690.28,452,42,false
+1013,Apex Desk,Home,Apex,12405.71,8020.03,134,48,false
+1014,Pulse Cricket Bat,Sports,Pulse,11043.11,8824.97,260,32,true
+1015,UrbanNest Charger,Electronics,UrbanNest,7725.78,3909.2,348,28,true
+1016,Orbito Sunscreen,Beauty,Orbito,26501.81,20933.18,440,1,true
+1017,Pulse Football,Sports,Pulse,5665.45,3411.55,232,1,true
+1018,UrbanNest Dumbbells,Sports,UrbanNest,43537.88,24139.82,327,33,true
+1019,Apex Desk,Home,Apex,27014.01,19518.14,271,1,true
+1020,UrbanNest Face Wash,Beauty,UrbanNest,46461.02,35196.67,425,20,true
+1021,UrbanNest Keyboard,Electronics,UrbanNest,4373.11,2711.75,35,49,true
+1022,Orbito Bedsheet,Home,Orbito,47346.75,24042.42,270,39,false
+1023,Brightly Cookware Set,Home,Brightly,35675.15,21035.76,343,42,true
+1024,Orbito Perfume,Beauty,Orbito,6137.11,3244.35,173,2,true
+1025,Nova Dumbbells,Sports,Nova,3641.55,2443.07,117,5,true
+1026,Brightly T-Shirt,Fashion,Brightly,13995.02,8675.44,276,9,false
+1027,Everday Storage Box,Home,Everday,9600.45,4645.91,220,23,false
+1028,Nova Sunscreen,Beauty,Nova,33699.89,26773.14,50,4,false
+1029,Brightly T-Shirt,Fashion,Brightly,9659.34,6159.76,71,28,true
+1030,Brightly Jacket,Fashion,Brightly,43735.85,20835.09,413,36,true
+1031,Nova Webcam,Electronics,Nova,48451.91,37512.85,434,16,true
+1032,Orbito Sunscreen,Beauty,Orbito,10764.99,6355.26,30,11,false
+1033,Zentra Monitor,Electronics,Zentra,46332.25,33581.4,146,28,false
+1034,Zentra Chair,Home,Zentra,10962.27,5157.41,376,35,true
+1035,Nova T-Shirt,Fashion,Nova,29249.46,18310.09,436,34,true
+1036,UrbanNest Speaker,Electronics,UrbanNest,42580.99,20182.64,34,44,true
+1037,Brightly Face Wash,Beauty,Brightly,28987.06,13447.37,41,27,true
+1038,Pulse Jeans,Fashion,Pulse,12009.43,7067.85,343,42,true
+1039,UrbanNest Shampoo,Beauty,UrbanNest,563.84,376.31,288,7,true
+1040,Zentra Dumbbells,Sports,Zentra,6708.58,3838.33,35,16,true
+1041,Orbito Jeans,Fashion,Orbito,41702.87,29035.16,313,42,true
+1042,UrbanNest Football,Sports,UrbanNest,46951.61,23335.04,59,7,true
+1043,Brightly Sneakers,Fashion,Brightly,35907.85,18717.29,324,17,false
+1044,UrbanNest T-Shirt,Fashion,UrbanNest,31749.79,23503.48,22,1,true
+1045,Zentra Bedsheet,Home,Zentra,8161.94,4935.06,361,28,true
+1046,Apex Headphones,Electronics,Apex,27323.96,20277.34,298,36,true
+1047,Nova Moisturizer,Beauty,Nova,15481.09,11837.52,407,3,true
+1048,Brightly Bedsheet,Home,Brightly,33378.98,19152.44,286,27,true
+1049,Apex Chair,Home,Apex,44081.67,20219.17,377,22,false
+1050,Apex Desk,Home,Apex,39388.99,19215.27,446,3,false
+1051,Orbito Chair,Home,Orbito,17546.96,12935.4,446,15,true
+1052,Brightly Webcam,Electronics,Brightly,19982.45,10940.61,35,50,true
+1053,Everday Watch,Fashion,Everday,34006.95,25344.75,169,2,true
+1054,Zentra Jeans,Fashion,Zentra,2008.03,1322.89,176,47,true
+1055,UrbanNest Perfume,Beauty,UrbanNest,19320.25,12593.05,130,3,false
+1056,Brightly Speaker,Electronics,Brightly,18273.65,8670.68,340,22,true
+1057,Zentra Webcam,Electronics,Zentra,25404.41,17361.69,167,26,true
+1058,Brightly Dumbbells,Sports,Brightly,21079.27,16423.43,346,48,true
+1059,Zentra Water Bottle,Sports,Zentra,20362.15,15104.72,155,19,true
+1060,Pulse Perfume,Beauty,Pulse,23301.91,14091.97,109,33,false
+1061,UrbanNest Bedsheet,Home,UrbanNest,14259.94,9730.25,317,22,true
+1062,Zentra Bedsheet,Home,Zentra,11308.57,5877.01,12,3,true
+1063,UrbanNest Perfume,Beauty,UrbanNest,22824.27,17349.82,294,13,false
+1064,Brightly Sunscreen,Beauty,Brightly,7462.81,5154.32,457,49,true
+1065,Apex Moisturizer,Beauty,Apex,40224.08,27898.18,237,4,true
+1066,Apex Monitor,Electronics,Apex,40089.69,27407.41,286,39,true
+1067,Everday Perfume,Beauty,Everday,41544.4,26661.33,459,11,false
+1068,Brightly Shampoo,Beauty,Brightly,42008.16,22980.94,398,34,false
+1069,Orbito Desk,Home,Orbito,3965.42,2181.0,139,22,true
+1070,Apex Yoga Mat,Sports,Apex,7625.45,4453.74,78,46,true
+1071,Everday Monitor,Electronics,Everday,16609.98,10183.14,31,14,false
+1072,Nova Perfume,Beauty,Nova,42849.93,30764.45,194,31,true
+1073,Everday Sneakers,Fashion,Everday,42686.05,33453.08,214,35,true
+1074,Zentra Moisturizer,Beauty,Zentra,21847.22,10053.19,172,43,false
+1075,Apex Storage Box,Home,Apex,49037.03,31233.81,464,26,true
+1076,Everday Webcam,Electronics,Everday,6870.4,4201.9,25,17,false
+1077,Orbito Jeans,Fashion,Orbito,16408.61,11755.63,194,18,false
+1078,Orbito T-Shirt,Fashion,Orbito,1066.23,681.1,487,23,true
+1079,Nova Charger,Electronics,Nova,37735.24,29522.7,102,2,true
+1080,Orbito Chair,Home,Orbito,33505.0,21690.78,111,30,true
+1081,UrbanNest Jeans,Fashion,UrbanNest,38910.82,19740.16,159,7,true
+1082,Everday Backpack,Fashion,Everday,19892.06,13929.52,38,38,true
+1083,Zentra Webcam,Electronics,Zentra,42528.63,28075.02,61,37,true
+1084,Everday Backpack,Fashion,Everday,33108.91,15698.09,331,22,true
+1085,UrbanNest Sunscreen,Beauty,UrbanNest,21731.82,12534.17,456,30,true
+1086,Zentra Moisturizer,Beauty,Zentra,30833.03,23798.97,396,31,false
+1087,Zentra Perfume,Beauty,Zentra,16182.0,8672.31,478,6,true
+1088,Orbito Moisturizer,Beauty,Orbito,28534.5,19513.77,172,2,false
+1089,Orbito Jeans,Fashion,Orbito,10683.78,7791.05,174,18,true
+1090,Brightly Yoga Mat,Sports,Brightly,4371.09,3068.62,250,36,true
+1091,Orbito Sunscreen,Beauty,Orbito,39666.35,19141.74,113,26,true
+1092,Pulse Watch,Fashion,Pulse,23714.7,15078.34,217,48,true
+1093,Orbito Watch,Fashion,Orbito,13617.73,7326.22,61,47,true
+1094,Apex T-Shirt,Fashion,Apex,9656.89,6842.02,141,47,true
+1095,Brightly Charger,Electronics,Brightly,14881.7,8576.45,154,1,true
+1096,Nova T-Shirt,Fashion,Nova,27711.61,19234.52,64,41,false
+1097,Nova Charger,Electronics,Nova,28744.8,17657.61,225,22,true
+1098,Orbito Mouse,Electronics,Orbito,5791.95,2738.84,251,5,true
+1099,Zentra Chair,Home,Zentra,4349.53,2335.12,285,49,false
+1100,Brightly Water Bottle,Sports,Brightly,38806.11,22629.1,465,29,true
+1101,Zentra Cricket Bat,Sports,Zentra,28473.61,13413.37,491,48,true
+1102,Brightly Bedsheet,Home,Brightly,13304.84,6365.24,122,12,true
+1103,Everday Lamp,Home,Everday,22579.13,14853.32,149,3,true
+1104,Zentra Watch,Fashion,Zentra,35178.08,21420.32,351,15,true
+1105,Everday Dumbbells,Sports,Everday,5826.34,3080.29,76,18,true
+1106,Apex Headphones,Electronics,Apex,39651.17,26100.99,422,37,true
+1107,Orbito Face Wash,Beauty,Orbito,34464.03,23949.29,482,18,false
+1108,Nova Face Wash,Beauty,Nova,44481.2,31452.07,309,17,true
+1109,Nova Keyboard,Electronics,Nova,49977.66,34249.62,137,37,true
+1110,Orbito Storage Box,Home,Orbito,45811.03,23524.94,299,28,false
+1111,Pulse Monitor,Electronics,Pulse,20475.57,11514.85,53,11,true
+1112,Zentra Sunscreen,Beauty,Zentra,33161.92,19570.78,389,36,true
+1113,Pulse Face Wash,Beauty,Pulse,12693.7,6227.18,395,26,true
+1114,Everday Cricket Bat,Sports,Everday,2803.78,1770.46,318,49,false
+1115,Brightly Face Wash,Beauty,Brightly,13425.11,6656.9,147,29,false
+1116,Brightly Headphones,Electronics,Brightly,35517.16,19845.66,7,36,false
+1117,UrbanNest Keyboard,Electronics,UrbanNest,23125.25,11357.11,426,10,false
+1118,Zentra Backpack,Fashion,Zentra,20831.97,12892.38,241,16,false
+1119,Everday Dumbbells,Sports,Everday,9610.46,6340.81,382,9,true
+1120,Pulse Jacket,Fashion,Pulse,46717.99,29325.26,420,1,true
+1121,Orbito Backpack,Fashion,Orbito,43275.5,26237.57,247,23,true
+1122,Everday Water Bottle,Sports,Everday,22820.7,12839.43,96,45,true
+1123,Brightly Cricket Bat,Sports,Brightly,42814.05,25421.75,162,48,false
+1124,Apex Sunscreen,Beauty,Apex,24815.9,11488.69,257,38,true
+1125,Orbito Charger,Electronics,Orbito,5074.61,3900.62,7,47,true
+1126,UrbanNest Moisturizer,Beauty,UrbanNest,23526.58,18567.68,173,40,false
+1127,Pulse Charger,Electronics,Pulse,42630.83,32005.94,194,21,false
+1128,UrbanNest Yoga Mat,Sports,UrbanNest,11814.04,8146.25,147,15,true
+1129,UrbanNest Face Wash,Beauty,UrbanNest,22238.56,15409.11,462,2,true
+1130,Zentra T-Shirt,Fashion,Zentra,17986.32,10805.11,125,34,false
+1131,Apex Dumbbells,Sports,Apex,8834.96,5860.42,195,40,true
+1132,Apex Perfume,Beauty,Apex,11685.2,7867.26,235,17,true
+1133,Apex Shampoo,Beauty,Apex,3784.71,2955.22,300,20,false
+1134,Zentra Jacket,Fashion,Zentra,10039.93,5869.77,247,7,true
+1135,Pulse Perfume,Beauty,Pulse,28782.12,22952.08,151,2,false
+1136,Nova T-Shirt,Fashion,Nova,45538.79,32369.44,426,19,true
+1137,Brightly Football,Sports,Brightly,31866.23,21264.71,347,49,true
+1138,Nova Webcam,Electronics,Nova,15514.75,9375.38,296,24,true
+1139,Pulse Mouse,Electronics,Pulse,37398.3,19128.26,67,35,true
+1140,Zentra Water Bottle,Sports,Zentra,41539.58,22428.86,422,31,true
+1141,Orbito T-Shirt,Fashion,Orbito,48147.38,24038.3,494,15,false
+1142,UrbanNest Football,Sports,UrbanNest,39554.03,17992.0,274,8,false
+1143,Zentra Watch,Fashion,Zentra,29268.55,21595.68,481,24,true
+1144,Nova Storage Box,Home,Nova,31014.39,24194.61,167,40,true
+1145,Orbito Webcam,Electronics,Orbito,45477.44,25274.84,209,8,true
+1146,Zentra Headphones,Electronics,Zentra,49795.78,24431.91,120,35,true
+1147,Pulse Sunscreen,Beauty,Pulse,33556.26,23828.27,484,35,false
+1148,Everday Dumbbells,Sports,Everday,32779.6,24315.66,315,27,true
+1149,Pulse Webcam,Electronics,Pulse,10940.76,6626.2,120,24,true
+1150,Pulse Backpack,Fashion,Pulse,3120.45,1705.51,495,8,false
+1151,Brightly Webcam,Electronics,Brightly,32120.05,21167.15,10,4,true
+1152,Brightly Chair,Home,Brightly,3522.65,2528.58,106,38,true
+1153,Apex Desk,Home,Apex,39452.32,25983.04,141,10,true
+1154,Apex Football,Sports,Apex,5584.32,4206.43,67,1,true
+1155,Pulse Cookware Set,Home,Pulse,886.48,481.25,64,48,false
+1156,UrbanNest Yoga Mat,Sports,UrbanNest,23863.67,17236.87,262,38,true
+1157,Brightly Perfume,Beauty,Brightly,47275.24,21991.39,401,43,true
+1158,Nova Face Wash,Beauty,Nova,49928.48,37274.33,218,44,true
+1159,UrbanNest Sunscreen,Beauty,UrbanNest,44972.41,25307.74,75,5,true
+1160,Pulse Backpack,Fashion,Pulse,19106.13,12592.6,150,30,false
+1161,UrbanNest Charger,Electronics,UrbanNest,42653.36,28911.34,393,36,true
+1162,Brightly Sunscreen,Beauty,Brightly,20748.3,15345.37,204,27,true
+1163,Pulse Jacket,Fashion,Pulse,33287.88,19340.44,78,44,false
+1164,UrbanNest Headphones,Electronics,UrbanNest,4751.18,2298.61,378,24,true
+1165,Pulse Yoga Mat,Sports,Pulse,33532.66,19911.12,447,43,false
+1166,Zentra Mouse,Electronics,Zentra,17646.14,11510.07,108,10,false
+1167,Pulse Lamp,Home,Pulse,42283.13,24466.98,390,18,true
+1168,Nova Perfume,Beauty,Nova,30487.85,20739.08,355,18,true
+1169,Zentra Desk,Home,Zentra,46083.72,26399.44,92,10,false
+1170,Nova Keyboard,Electronics,Nova,4677.71,2973.47,192,27,false
+1171,Pulse Jeans,Fashion,Pulse,15649.7,8819.14,482,37,true
+1172,Apex Keyboard,Electronics,Apex,37745.35,17642.81,41,18,false
+1173,Orbito Sunscreen,Beauty,Orbito,20766.77,10911.88,262,8,true
+1174,Zentra Face Wash,Beauty,Zentra,33942.07,22320.2,269,43,true
+1175,Everday Keyboard,Electronics,Everday,49222.84,23094.06,104,20,true
+1176,Zentra Desk,Home,Zentra,16472.31,7457.1,382,28,true
+1177,Brightly Storage Box,Home,Brightly,25062.09,18587.9,412,23,true
+1178,Everday Face Wash,Beauty,Everday,1034.2,798.82,441,21,false
+1179,Everday Cricket Bat,Sports,Everday,14545.81,8607.65,494,21,true
+1180,Pulse Cricket Bat,Sports,Pulse,4496.68,3352.59,124,28,false
+1181,Everday Yoga Mat,Sports,Everday,43538.17,30957.02,113,22,true
+1182,UrbanNest Speaker,Electronics,UrbanNest,26576.18,13762.91,397,23,true
+1183,UrbanNest Chair,Home,UrbanNest,7406.57,3844.34,308,10,true
+1184,Orbito Bedsheet,Home,Orbito,23250.26,15050.07,296,29,true
+1185,Orbito Jeans,Fashion,Orbito,3506.48,2120.62,155,18,true
+1186,UrbanNest Backpack,Fashion,UrbanNest,15588.35,9480.36,29,24,true
+1187,UrbanNest Webcam,Electronics,UrbanNest,30787.92,19318.61,236,38,true
+1188,Brightly Perfume,Beauty,Brightly,16143.19,9951.79,77,4,false
+1189,Pulse Charger,Electronics,Pulse,49120.04,23553.81,330,12,true
+1190,Orbito Bedsheet,Home,Orbito,49549.2,31385.65,312,11,true
+1191,Everday Sneakers,Fashion,Everday,20496.59,11650.85,306,4,true
+1192,UrbanNest Mouse,Electronics,UrbanNest,27941.36,16354.01,129,47,true
+1193,Apex T-Shirt,Fashion,Apex,45844.65,25607.96,335,45,false
+1194,UrbanNest Cookware Set,Home,UrbanNest,15547.14,9045.91,405,22,true
+1195,Everday Yoga Mat,Sports,Everday,25472.58,11625.19,158,12,true
+1196,Brightly Jacket,Fashion,Brightly,11403.5,5680.63,39,19,true
+1197,Nova Water Bottle,Sports,Nova,33129.27,25070.16,316,9,false
+1198,Apex Chair,Home,Apex,41583.12,29935.03,414,11,false
+1199,Pulse Monitor,Electronics,Pulse,33849.51,18046.38,227,40,true
+1200,Brightly Moisturizer,Beauty,Brightly,15541.45,11392.17,240,13,true
+1201,Orbito Cricket Bat,Sports,Orbito,38493.98,27805.87,257,34,false
+1202,Apex Chair,Home,Apex,43661.8,20445.2,246,24,true
+1203,Zentra Yoga Mat,Sports,Zentra,4284.37,2168.36,230,33,true
+1204,Brightly Face Wash,Beauty,Brightly,40852.49,31032.39,476,2,false
+1205,Pulse Monitor,Electronics,Pulse,11864.33,9468.73,191,15,true
+1206,Pulse T-Shirt,Fashion,Pulse,39588.89,19721.6,146,31,true
+1207,Nova Sunscreen,Beauty,Nova,45301.29,20686.9,110,10,false
+1208,Zentra Charger,Electronics,Zentra,11957.25,5890.7,122,27,false
+1209,Orbito Headphones,Electronics,Orbito,29876.28,13616.19,263,37,true
+1210,Everday Desk,Home,Everday,177.06,101.54,292,27,true
+1211,Pulse Speaker,Electronics,Pulse,3476.2,2204.33,259,33,true
+1212,Nova Sunscreen,Beauty,Nova,31818.97,25244.02,129,48,true
+1213,Pulse T-Shirt,Fashion,Pulse,12131.18,8249.04,53,50,true
+1214,Pulse Lamp,Home,Pulse,27345.09,20091.21,89,50,false
+1215,Apex Moisturizer,Beauty,Apex,3247.72,2343.77,234,3,true
+1216,Brightly Lamp,Home,Brightly,44299.94,24828.28,158,33,false
+1217,Zentra Cricket Bat,Sports,Zentra,1926.38,1303.03,146,23,true
+1218,UrbanNest Sneakers,Fashion,UrbanNest,39986.19,24108.99,204,48,false
+1219,Apex Shampoo,Beauty,Apex,24859.54,15515.66,473,34,true
+1220,Everday Webcam,Electronics,Everday,4037.46,2668.19,421,12,true
+1221,UrbanNest T-Shirt,Fashion,UrbanNest,16462.2,9111.4,228,39,false
+1222,Orbito Bedsheet,Home,Orbito,17641.19,8200.05,445,23,false
+1223,Nova Watch,Fashion,Nova,3843.55,2587.21,186,33,true
+1224,Orbito Keyboard,Electronics,Orbito,1835.47,869.15,398,42,true
+1225,Nova Jacket,Fashion,Nova,30293.23,20831.8,485,24,true
+1226,Apex Face Wash,Beauty,Apex,26519.05,15627.99,332,18,true
+1227,Apex Headphones,Electronics,Apex,25001.29,14636.89,287,8,true
+1228,Orbito Watch,Fashion,Orbito,10806.06,7176.92,355,32,true
+1229,UrbanNest Keyboard,Electronics,UrbanNest,22655.93,17321.31,227,6,true
+1230,UrbanNest Watch,Fashion,UrbanNest,27543.86,15193.93,153,11,true
+1231,Brightly Backpack,Fashion,Brightly,6154.99,3202.71,71,16,false
+1232,Pulse Mouse,Electronics,Pulse,23422.55,18598.77,66,40,true
+1233,Everday Mouse,Electronics,Everday,49978.79,35065.34,269,27,false
+1234,Apex Yoga Mat,Sports,Apex,48620.75,32810.18,230,30,true
+1235,Apex Cookware Set,Home,Apex,38411.3,19019.8,257,4,true
+1236,Zentra Dumbbells,Sports,Zentra,8315.39,4680.99,363,15,true
+1237,UrbanNest Football,Sports,UrbanNest,12604.2,8473.43,282,18,true
+1238,UrbanNest Backpack,Fashion,UrbanNest,25177.4,12815.86,482,38,true
+1239,Pulse Bedsheet,Home,Pulse,42141.25,27276.61,422,2,true
+1240,Zentra Webcam,Electronics,Zentra,32590.39,23414.1,213,40,true
+1241,Zentra Perfume,Beauty,Zentra,32130.17,17855.79,125,44,false
+1242,UrbanNest Jacket,Fashion,UrbanNest,34460.82,17414.02,212,31,false
+1243,Apex Desk,Home,Apex,15696.87,11010.21,375,23,false
+1244,UrbanNest Desk,Home,UrbanNest,16022.88,9826.28,136,29,true
+1245,Nova Lamp,Home,Nova,14580.58,8521.66,315,27,true
+1246,Pulse Desk,Home,Pulse,9571.72,4841.09,263,30,false
+1247,Nova Jacket,Fashion,Nova,4592.45,2698.68,234,16,true
+1248,Nova Football,Sports,Nova,2620.97,1633.42,451,42,false
+1249,Nova Backpack,Fashion,Nova,42372.9,25458.69,451,17,true
+1250,Nova Shampoo,Beauty,Nova,20088.02,13049.15,99,24,true
+1251,Orbito Monitor,Electronics,Orbito,38242.77,20953.3,319,44,true
+1252,Everday Lamp,Home,Everday,18721.6,14890.71,285,24,true
+1253,Everday Cookware Set,Home,Everday,25052.89,11671.04,70,46,true
+1254,Orbito Perfume,Beauty,Orbito,7531.14,5743.22,71,21,true
+1255,Zentra Storage Box,Home,Zentra,29725.86,18654.77,260,35,false
+1256,Orbito Football,Sports,Orbito,40804.87,23622.97,344,8,false
+1257,Nova Football,Sports,Nova,29884.79,16225.52,335,50,true
+1258,Orbito Speaker,Electronics,Orbito,8607.55,5768.43,317,50,false
+1259,Brightly Bedsheet,Home,Brightly,1674.37,1309.14,56,13,true
+1260,Everday Shampoo,Beauty,Everday,7655.42,5295.06,210,33,false
+1261,Apex Webcam,Electronics,Apex,25981.29,16791.98,339,31,false
+1262,Orbito Jeans,Fashion,Orbito,45614.0,25991.52,181,44,true
+1263,Brightly Cricket Bat,Sports,Brightly,47870.14,26216.19,152,15,true
+1264,Brightly Watch,Fashion,Brightly,34541.97,21455.78,245,23,true
+1265,Everday T-Shirt,Fashion,Everday,44797.45,26344.77,176,50,true
+1266,Zentra T-Shirt,Fashion,Zentra,47769.15,22817.43,473,29,true
+1267,Brightly Moisturizer,Beauty,Brightly,41413.79,22566.23,287,45,true
+1268,Brightly Lamp,Home,Brightly,12197.66,8348.59,271,15,true
+1269,Everday Headphones,Electronics,Everday,16580.65,10202.76,348,50,true
+1270,Apex Speaker,Electronics,Apex,20403.68,15858.99,449,31,false
+1271,Pulse Desk,Home,Pulse,14341.23,6750.52,393,6,true
+1272,Apex Yoga Mat,Sports,Apex,20951.46,15570.32,478,3,false
+1273,Zentra Moisturizer,Beauty,Zentra,43848.48,19874.04,290,39,true
+1274,Orbito Sneakers,Fashion,Orbito,49455.06,31658.91,252,9,false
+1275,UrbanNest Jeans,Fashion,UrbanNest,16600.14,11717.9,331,17,true
+1276,Pulse Webcam,Electronics,Pulse,39558.31,25662.4,387,13,true
+1277,Everday Cricket Bat,Sports,Everday,25811.5,12398.77,342,7,true
+1278,Pulse Storage Box,Home,Pulse,46796.69,21170.38,196,16,false
+1279,Zentra Sneakers,Fashion,Zentra,29163.79,18971.25,133,42,true
+1280,UrbanNest Lamp,Home,UrbanNest,23322.21,11798.73,351,33,true
+1281,Zentra Webcam,Electronics,Zentra,18439.44,9723.07,490,9,false
+1282,Pulse Storage Box,Home,Pulse,20849.7,13390.35,241,49,true
+1283,UrbanNest Bedsheet,Home,UrbanNest,26321.78,16710.66,185,5,true
+1284,Brightly Charger,Electronics,Brightly,28676.81,14408.62,167,34,false
+1285,Brightly Webcam,Electronics,Brightly,35873.21,22280.48,460,33,false
+1286,Apex Monitor,Electronics,Apex,25710.07,15680.04,29,36,false
+1287,Nova Watch,Fashion,Nova,19856.84,14609.84,381,14,true
+1288,Pulse Monitor,Electronics,Pulse,35048.21,22410.08,30,5,false
+1289,Everday Mouse,Electronics,Everday,9080.07,4516.43,328,47,false
+1290,Orbito Jacket,Fashion,Orbito,43493.05,33375.2,192,6,true
+1291,Apex T-Shirt,Fashion,Apex,49642.05,29168.21,65,47,true
+1292,Nova Charger,Electronics,Nova,48925.69,29945.04,368,35,false
+1293,Brightly Cricket Bat,Sports,Brightly,12449.85,7110.81,141,13,true
+1294,Everday Charger,Electronics,Everday,30783.67,23939.95,455,2,true
+1295,UrbanNest Lamp,Home,UrbanNest,29736.81,18028.07,344,46,true
+1296,Nova Bedsheet,Home,Nova,20172.04,10731.9,111,49,true
+1297,Zentra Cookware Set,Home,Zentra,11783.66,9082.13,294,21,true
+1298,Apex Desk,Home,Apex,49285.21,31169.83,211,20,true
+1299,Apex Speaker,Electronics,Apex,31336.06,18786.6,253,4,true
+1300,Pulse Perfume,Beauty,Pulse,34844.79,20659.15,153,25,true
+1301,Brightly Cricket Bat,Sports,Brightly,42481.11,23587.97,362,10,false
+1302,Everday Speaker,Electronics,Everday,48391.53,31214.97,68,25,true
+1303,Pulse Jeans,Fashion,Pulse,32369.62,25014.57,433,24,true
+1304,Nova Dumbbells,Sports,Nova,13495.23,9254.83,308,3,true
+1305,Brightly Cookware Set,Home,Brightly,24020.77,18119.25,170,20,true
+1306,UrbanNest Chair,Home,UrbanNest,37368.27,26681.53,468,16,true
+1307,Pulse Moisturizer,Beauty,Pulse,38797.14,22627.72,273,42,true
+1308,Pulse Sneakers,Fashion,Pulse,25688.55,16030.86,50,47,false
+1309,Pulse Jeans,Fashion,Pulse,15713.81,7322.64,442,15,true
+1310,Everday Mouse,Electronics,Everday,14829.1,7691.37,117,25,true
+1311,Pulse Perfume,Beauty,Pulse,12939.61,9543.7,494,47,false
+1312,Pulse Moisturizer,Beauty,Pulse,8545.36,5999.78,250,12,true
+1313,UrbanNest Yoga Mat,Sports,UrbanNest,47263.89,32322.61,391,1,false
+1314,Brightly Bedsheet,Home,Brightly,3490.6,1755.28,111,33,false
+1315,Orbito T-Shirt,Fashion,Orbito,32997.29,15030.47,272,36,false
+1316,Zentra Headphones,Electronics,Zentra,26832.33,14766.93,257,45,false
+1317,UrbanNest Lamp,Home,UrbanNest,26265.83,14034.86,317,34,true
+1318,Everday Sneakers,Fashion,Everday,4042.06,3176.07,235,37,true
+1319,UrbanNest Desk,Home,UrbanNest,32720.41,24552.63,388,3,true
+1320,Everday Sunscreen,Beauty,Everday,27678.8,12999.08,4,45,true
+1321,Everday Monitor,Electronics,Everday,32279.87,18268.62,500,7,true
+1322,Orbito Chair,Home,Orbito,13626.64,10539.6,350,18,true
+1323,Nova Desk,Home,Nova,48076.31,31512.22,385,46,false
+1324,Apex Mouse,Electronics,Apex,28240.51,18309.55,434,25,true
+1325,UrbanNest Moisturizer,Beauty,UrbanNest,25088.56,19845.38,27,7,false
+1326,Pulse Lamp,Home,Pulse,30296.92,20142.99,304,26,true
+1327,Zentra Webcam,Electronics,Zentra,39198.05,23820.36,116,23,false
+1328,Everday Moisturizer,Beauty,Everday,4375.14,2916.1,408,16,true
+1329,Apex Mouse,Electronics,Apex,19061.0,13807.06,78,48,false
+1330,UrbanNest Sneakers,Fashion,UrbanNest,4665.87,3639.55,227,24,true
+1331,UrbanNest Keyboard,Electronics,UrbanNest,9449.85,5736.96,284,33,false
+1332,UrbanNest Headphones,Electronics,UrbanNest,17759.32,8570.16,306,21,false
+1333,Everday Mouse,Electronics,Everday,19450.2,9329.19,461,36,true
+1334,Apex Water Bottle,Sports,Apex,34296.27,17467.97,137,20,true
+1335,UrbanNest Moisturizer,Beauty,UrbanNest,8442.65,4614.64,153,31,true
+1336,Brightly Sneakers,Fashion,Brightly,36071.88,22491.93,315,13,false
+1337,Zentra Keyboard,Electronics,Zentra,436.69,256.99,430,40,false
+1338,Pulse Jacket,Fashion,Pulse,21586.75,15936.14,333,39,true
+1339,Brightly Sneakers,Fashion,Brightly,24001.59,12292.97,203,21,true
+1340,Brightly Perfume,Beauty,Brightly,16360.72,8967.39,402,26,true
+1341,Brightly Speaker,Electronics,Brightly,29651.13,19005.49,349,50,true
+1342,Orbito Moisturizer,Beauty,Orbito,39903.51,29566.45,35,27,false
+1343,Zentra Bedsheet,Home,Zentra,12175.86,8286.06,366,28,false
+1344,Orbito Monitor,Electronics,Orbito,29152.98,18571.28,472,45,false
+1345,Pulse Yoga Mat,Sports,Pulse,35110.55,25781.82,304,41,true
+1346,Brightly Charger,Electronics,Brightly,32913.32,18900.58,331,40,true
+1347,Pulse Cricket Bat,Sports,Pulse,48288.27,29004.81,5,7,true
+1348,Brightly Cookware Set,Home,Brightly,22343.35,13113.24,395,44,true
+1349,Orbito T-Shirt,Fashion,Orbito,5316.01,3166.17,492,6,true
+1350,Zentra Desk,Home,Zentra,17218.03,12474.37,266,31,true
+1351,Orbito Face Wash,Beauty,Orbito,36126.5,21977.79,34,20,true
+1352,Pulse Headphones,Electronics,Pulse,32432.7,22281.22,84,48,true
+1353,Apex Dumbbells,Sports,Apex,16615.38,9956.42,236,15,false
+1354,Everday Chair,Home,Everday,19838.56,14047.41,452,13,false
+1355,Everday Cricket Bat,Sports,Everday,321.06,168.61,142,49,true
+1356,Apex Yoga Mat,Sports,Apex,18352.07,9524.28,58,17,false
+1357,Everday Football,Sports,Everday,30603.29,20058.98,178,23,false
+1358,Zentra Dumbbells,Sports,Zentra,45941.26,30163.14,344,9,true
+1359,Zentra Keyboard,Electronics,Zentra,5934.75,3446.05,72,33,false
+1360,Apex Perfume,Beauty,Apex,28781.82,17213.36,249,41,true
+1361,Orbito Dumbbells,Sports,Orbito,14511.86,7480.64,431,29,true
+1362,Orbito T-Shirt,Fashion,Orbito,6912.08,5082.63,493,36,false
+1363,Everday Sunscreen,Beauty,Everday,35535.1,21511.11,85,6,true
+1364,Nova Desk,Home,Nova,13814.16,8815.69,86,50,false
+1365,UrbanNest Cricket Bat,Sports,UrbanNest,28677.43,15593.67,278,24,true
+1366,Brightly Perfume,Beauty,Brightly,49488.81,24043.93,424,42,true
+1367,Orbito T-Shirt,Fashion,Orbito,13213.48,9933.5,44,29,true
+1368,Pulse Chair,Home,Pulse,43065.33,28577.79,219,11,true
+1369,Nova Chair,Home,Nova,28545.71,18163.59,305,35,true
+1370,Zentra Watch,Fashion,Zentra,14536.73,7901.73,439,33,true
+1371,Nova Storage Box,Home,Nova,49624.06,37390.07,64,45,true
+1372,Pulse Chair,Home,Pulse,41440.24,29692.58,346,26,false
+1373,Zentra Cookware Set,Home,Zentra,31426.86,18268.76,38,41,true
+1374,Zentra Perfume,Beauty,Zentra,34764.71,26319.01,232,32,true
+1375,UrbanNest Yoga Mat,Sports,UrbanNest,36572.5,22325.95,340,45,true
+1376,Everday Charger,Electronics,Everday,10968.71,6585.34,108,32,true
+1377,Pulse Sneakers,Fashion,Pulse,27409.8,13587.26,436,32,true
+1378,UrbanNest Headphones,Electronics,UrbanNest,31345.36,23284.77,8,8,true
+1379,Nova Sunscreen,Beauty,Nova,49591.73,29741.64,352,9,true
+1380,UrbanNest Desk,Home,UrbanNest,32762.94,17614.54,190,43,true
+1381,Zentra Monitor,Electronics,Zentra,36325.82,25948.67,219,42,true
+1382,Brightly Headphones,Electronics,Brightly,23891.65,11860.89,115,34,false
+1383,Pulse Headphones,Electronics,Pulse,40872.74,32528.74,216,45,true
+1384,Brightly Face Wash,Beauty,Brightly,19214.19,13560.74,52,7,true
+1385,Apex Sneakers,Fashion,Apex,19196.78,14103.47,447,9,true
+1386,Nova Speaker,Electronics,Nova,30553.93,15504.31,179,47,true
+1387,Orbito Storage Box,Home,Orbito,43011.13,20660.0,51,9,true
+1388,Pulse Cricket Bat,Sports,Pulse,48165.11,26976.14,71,16,true
+1389,Zentra Keyboard,Electronics,Zentra,38969.59,26953.96,434,43,true
+1390,Brightly Cookware Set,Home,Brightly,37416.4,20707.72,27,16,false
+1391,Brightly Face Wash,Beauty,Brightly,25028.17,16465.42,270,1,true
+1392,Everday Jeans,Fashion,Everday,43053.62,27938.92,187,35,true
+1393,Nova Face Wash,Beauty,Nova,29408.44,13375.77,110,3,true
+1394,Zentra Perfume,Beauty,Zentra,31464.68,19676.98,212,28,false
+1395,Apex Webcam,Electronics,Apex,13944.64,7787.63,261,14,true
+1396,Everday Football,Sports,Everday,29362.21,21056.48,332,44,true
+1397,Everday Watch,Fashion,Everday,36523.92,27256.48,29,16,true
+1398,Orbito Face Wash,Beauty,Orbito,30652.61,14384.04,341,48,true
+1399,Apex Headphones,Electronics,Apex,35103.83,17809.63,487,23,true
+1400,Apex Desk,Home,Apex,37512.84,28348.87,375,8,true
+1401,Zentra Jacket,Fashion,Zentra,26239.33,14222.57,499,37,true
+1402,Pulse Sunscreen,Beauty,Pulse,2865.41,2151.28,85,24,true
+1403,UrbanNest T-Shirt,Fashion,UrbanNest,11496.38,7220.75,22,1,true
+1404,Pulse Monitor,Electronics,Pulse,19209.68,9653.43,476,3,false
+1405,Brightly Desk,Home,Brightly,20870.2,14652.98,138,5,true
+1406,Nova Speaker,Electronics,Nova,9048.28,6618.98,23,26,true
+1407,Zentra Shampoo,Beauty,Zentra,16431.32,10574.9,4,24,true
+1408,Zentra Backpack,Fashion,Zentra,37003.84,19793.52,188,38,false
+1409,Brightly Bedsheet,Home,Brightly,7612.26,5909.7,12,15,true
+1410,Nova Mouse,Electronics,Nova,37969.56,22086.75,377,47,true
+1411,Brightly Keyboard,Electronics,Brightly,21047.81,16552.31,497,10,true
+1412,Brightly Headphones,Electronics,Brightly,44873.64,28356.36,358,24,false
+1413,UrbanNest Speaker,Electronics,UrbanNest,25319.85,17040.9,201,5,true
+1414,Brightly Moisturizer,Beauty,Brightly,14653.63,10958.27,474,26,true
+1415,Zentra Jacket,Fashion,Zentra,11756.2,9172.71,69,50,true
+1416,Apex Lamp,Home,Apex,22532.38,12616.14,61,35,true
+1417,Zentra Storage Box,Home,Zentra,23220.0,17377.12,46,11,true
+1418,Brightly Yoga Mat,Sports,Brightly,41811.65,23612.2,46,46,true
+1419,Nova Jacket,Fashion,Nova,33890.45,18336.71,89,2,false
+1420,Brightly Perfume,Beauty,Brightly,4825.79,2343.73,406,9,true
+1421,Brightly Headphones,Electronics,Brightly,6621.69,4888.7,190,44,true
+1422,Zentra Water Bottle,Sports,Zentra,45878.69,21849.52,33,13,false
+1423,Pulse Lamp,Home,Pulse,6213.13,4844.99,25,11,false
+1424,Nova Sunscreen,Beauty,Nova,19197.2,11505.5,181,14,true
+1425,Orbito Sneakers,Fashion,Orbito,44181.85,20417.64,317,40,true
+1426,Everday Jacket,Fashion,Everday,44149.65,27269.51,44,18,false
+1427,Brightly Storage Box,Home,Brightly,32167.36,23450.63,127,41,true
+1428,Orbito Shampoo,Beauty,Orbito,27270.44,16897.8,467,37,true
+1429,Apex Shampoo,Beauty,Apex,1399.54,922.28,15,50,true
+1430,Orbito Charger,Electronics,Orbito,26517.67,19050.16,119,11,true
+1431,Brightly Bedsheet,Home,Brightly,13398.7,9857.42,469,48,true
+1432,Everday Cookware Set,Home,Everday,17803.75,13241.14,432,12,true
+1433,Pulse Cookware Set,Home,Pulse,40328.89,27995.08,467,38,true
+1434,Apex Backpack,Fashion,Apex,28198.13,14546.9,414,32,true
+1435,Nova Storage Box,Home,Nova,4602.84,2446.03,112,2,false
+1436,Brightly Mouse,Electronics,Brightly,40340.63,22964.54,90,21,true
+1437,Apex Keyboard,Electronics,Apex,38739.89,28910.35,440,24,true
+1438,Everday Watch,Fashion,Everday,29341.23,16659.84,165,9,true
+1439,Pulse Sunscreen,Beauty,Pulse,8791.71,6937.19,355,40,true
+1440,Apex Bedsheet,Home,Apex,18980.37,13417.19,150,9,true
+1441,Everday Webcam,Electronics,Everday,42551.77,30628.37,290,3,true
+1442,Brightly Football,Sports,Brightly,32017.37,15574.48,254,10,true
+1443,Pulse Keyboard,Electronics,Pulse,49119.74,24990.19,453,6,true
+1444,Zentra Face Wash,Beauty,Zentra,10562.25,7315.54,179,17,true
+1445,Everday Headphones,Electronics,Everday,21966.19,13111.15,85,27,false
+1446,Everday Shampoo,Beauty,Everday,5160.29,3188.14,442,37,true
+1447,UrbanNest Storage Box,Home,UrbanNest,39978.81,18458.0,10,21,true
+1448,Pulse Headphones,Electronics,Pulse,8587.25,4992.72,374,5,true
+1449,Orbito Backpack,Fashion,Orbito,35253.78,21186.22,334,11,false
+1450,UrbanNest Lamp,Home,UrbanNest,16620.62,13147.57,209,45,true
+1451,Brightly Sneakers,Fashion,Brightly,4885.2,2870.13,281,32,true
+1452,Nova Mouse,Electronics,Nova,21436.54,11856.39,338,41,false
+1453,Nova Lamp,Home,Nova,10425.95,7020.49,500,6,false
+1454,Everday Mouse,Electronics,Everday,23599.13,18011.02,135,6,false
+1455,Everday Desk,Home,Everday,18532.14,11230.87,134,29,false
+1456,Zentra Jeans,Fashion,Zentra,28254.9,14209.27,356,43,true
+1457,Pulse Webcam,Electronics,Pulse,40427.19,24049.95,387,38,true
+1458,Everday Yoga Mat,Sports,Everday,40937.42,24420.04,274,44,false
+1459,Orbito Dumbbells,Sports,Orbito,15011.72,8829.62,437,46,true
+1460,Apex Water Bottle,Sports,Apex,6101.07,4362.36,88,11,true
+1461,Nova Chair,Home,Nova,21225.41,16893.26,222,13,true
+1462,Pulse Football,Sports,Pulse,45548.14,35070.29,34,6,false
+1463,Pulse Cricket Bat,Sports,Pulse,42844.55,27073.08,469,1,false
+1464,Apex Monitor,Electronics,Apex,7494.17,4914.5,388,7,true
+1465,Zentra Yoga Mat,Sports,Zentra,43386.02,32888.67,449,27,true
+1466,Orbito Sunscreen,Beauty,Orbito,1968.54,1075.6,73,40,false
+1467,Pulse Monitor,Electronics,Pulse,34555.64,16146.19,243,18,true
+1468,Zentra Mouse,Electronics,Zentra,15615.37,11633.39,439,45,true
+1469,Zentra Chair,Home,Zentra,48712.55,29475.41,422,21,true
+1470,UrbanNest Perfume,Beauty,UrbanNest,9476.99,4965.82,421,27,false
+1471,Nova Football,Sports,Nova,25810.96,13051.06,159,46,false
+1472,Nova Cookware Set,Home,Nova,8768.49,6631.72,102,4,true
+1473,Nova Monitor,Electronics,Nova,45908.75,31981.04,140,24,false
+1474,UrbanNest Cricket Bat,Sports,UrbanNest,34089.6,18226.97,250,39,false
+1475,Pulse Storage Box,Home,Pulse,17277.03,12839.92,132,48,true
+1476,Everday T-Shirt,Fashion,Everday,2576.59,1929.45,399,14,true
+1477,Brightly Bedsheet,Home,Brightly,13526.27,8025.51,10,50,true
+1478,Apex Moisturizer,Beauty,Apex,30095.98,13632.34,129,39,true
+1479,Everday Jacket,Fashion,Everday,42593.15,26009.48,111,30,true
+1480,Everday Water Bottle,Sports,Everday,29264.91,13244.47,339,24,true
+1481,UrbanNest Watch,Fashion,UrbanNest,24137.75,13702.98,141,41,true
+1482,Zentra Sneakers,Fashion,Zentra,9498.17,5993.85,123,4,false
+1483,Apex Watch,Fashion,Apex,36091.03,24519.89,151,17,false
+1484,Nova Sunscreen,Beauty,Nova,29191.88,23299.9,417,13,true
+1485,Orbito Bedsheet,Home,Orbito,45334.67,31061.23,259,20,true
+1486,Zentra Dumbbells,Sports,Zentra,4969.39,2458.76,132,47,true
+1487,UrbanNest Watch,Fashion,UrbanNest,11189.45,5909.87,446,20,false
+1488,Zentra Sneakers,Fashion,Zentra,29318.98,17952.49,60,31,true
+1489,UrbanNest Water Bottle,Sports,UrbanNest,23662.76,12259.45,61,44,false
+1490,Everday Football,Sports,Everday,2796.69,2094.68,70,13,true
+1491,Orbito Perfume,Beauty,Orbito,7245.89,5447.73,92,50,true
+1492,Apex Shampoo,Beauty,Apex,15738.36,7401.83,231,18,true
+1493,Apex Cookware Set,Home,Apex,24528.9,17593.33,45,9,false
+1494,Everday Sunscreen,Beauty,Everday,48268.86,28196.77,19,35,true
+1495,Pulse T-Shirt,Fashion,Pulse,37865.7,24077.35,9,44,true
+1496,Pulse Chair,Home,Pulse,15672.4,7615.97,257,38,true
+1497,Nova Lamp,Home,Nova,14979.29,8265.42,372,34,true
+1498,Pulse Moisturizer,Beauty,Pulse,49806.33,30957.75,384,13,true
+1499,Brightly Face Wash,Beauty,Brightly,11292.64,8974.35,108,47,true
+1500,Apex Water Bottle,Sports,Apex,6244.78,4364.41,405,3,false
+1501,Nova Backpack,Fashion,Nova,29735.81,13880.26,55,42,true
+1502,UrbanNest Webcam,Electronics,UrbanNest,20896.1,12184.28,280,17,false
+1503,Nova Chair,Home,Nova,15124.71,10308.74,339,34,true
+1504,Apex Water Bottle,Sports,Apex,20998.41,16053.66,261,47,true
+1505,UrbanNest T-Shirt,Fashion,UrbanNest,24936.18,16536.44,398,17,true
+1506,Everday Watch,Fashion,Everday,14837.02,6881.29,254,14,false
+1507,Nova Jeans,Fashion,Nova,735.2,353.74,56,37,false
+1508,UrbanNest Lamp,Home,UrbanNest,36204.82,17575.69,131,42,true
+1509,Zentra Shampoo,Beauty,Zentra,23266.44,11282.67,89,3,true
+1510,Pulse Watch,Fashion,Pulse,21356.16,10476.59,435,49,true
+1511,Apex Charger,Electronics,Apex,33200.42,16921.57,183,29,true
+1512,Pulse Mouse,Electronics,Pulse,9224.18,5444.78,492,30,true
+1513,Everday Sunscreen,Beauty,Everday,32476.44,23672.67,57,9,true
+1514,Everday Lamp,Home,Everday,45569.22,28204.44,291,44,false
+1515,Everday Cookware Set,Home,Everday,38979.3,25881.3,441,44,true
+1516,UrbanNest Sunscreen,Beauty,UrbanNest,44389.94,26822.21,32,17,true
+1517,Brightly Webcam,Electronics,Brightly,48895.99,33466.64,173,34,true
+1518,Orbito Moisturizer,Beauty,Orbito,17351.9,11915.61,197,10,true
+1519,Apex Webcam,Electronics,Apex,25326.82,15557.03,253,11,true
+1520,Brightly Shampoo,Beauty,Brightly,16610.65,9091.92,259,15,false
+1521,UrbanNest Moisturizer,Beauty,UrbanNest,23007.82,16805.87,229,6,false
+1522,UrbanNest Shampoo,Beauty,UrbanNest,49034.47,34855.35,9,7,false
+1523,Nova Face Wash,Beauty,Nova,41311.85,30038.84,493,40,true
+1524,Brightly Water Bottle,Sports,Brightly,32763.34,19974.92,174,24,true
+1525,Pulse Storage Box,Home,Pulse,28050.53,18707.33,242,46,true
+1526,UrbanNest Face Wash,Beauty,UrbanNest,37989.07,20043.47,174,23,true
+1527,Pulse Water Bottle,Sports,Pulse,35133.59,16373.04,84,32,true
+1528,Zentra Face Wash,Beauty,Zentra,30580.5,15768.53,476,26,true
+1529,Pulse Moisturizer,Beauty,Pulse,5476.51,3258.88,474,41,true
+1530,Apex Sunscreen,Beauty,Apex,48195.35,21761.08,376,4,false
+1531,Apex Cricket Bat,Sports,Apex,34620.7,17683.48,417,9,true
+1532,Pulse Perfume,Beauty,Pulse,25254.09,14764.35,311,45,true
+1533,Pulse Jacket,Fashion,Pulse,48526.53,29528.2,68,9,false
+1534,Zentra Water Bottle,Sports,Zentra,42168.41,27060.82,160,46,true
+1535,Zentra Chair,Home,Zentra,34360.9,26540.95,67,46,true
+1536,Pulse Water Bottle,Sports,Pulse,35545.6,25460.29,287,31,false
+1537,Everday Football,Sports,Everday,40433.41,25592.55,12,25,true
+1538,Nova Webcam,Electronics,Nova,10074.13,7178.47,82,19,true
+1539,Zentra Lamp,Home,Zentra,10278.65,6572.27,183,29,true
+1540,Brightly Water Bottle,Sports,Brightly,37145.4,24012.45,121,33,true
+1541,Everday Monitor,Electronics,Everday,20885.66,15159.63,350,21,true
+1542,Zentra Webcam,Electronics,Zentra,10233.05,7716.72,440,29,true
+1543,Brightly Backpack,Fashion,Brightly,38828.72,30577.67,150,29,true
+1544,Apex Keyboard,Electronics,Apex,36779.47,18087.18,20,28,true
+1545,Apex Football,Sports,Apex,8129.35,6065.35,2,22,false
+1546,Apex Lamp,Home,Apex,46437.55,30598.08,396,41,true
+1547,Pulse Perfume,Beauty,Pulse,3735.75,2606.39,269,15,true
+1548,Apex Yoga Mat,Sports,Apex,20853.97,13304.05,47,23,true
+1549,Pulse Bedsheet,Home,Pulse,16619.22,9186.29,486,49,false
+1550,UrbanNest Yoga Mat,Sports,UrbanNest,33479.03,20287.74,463,42,true
+1551,Pulse Webcam,Electronics,Pulse,19129.49,13939.13,58,25,true
+1552,Nova Football,Sports,Nova,45574.66,33622.17,191,33,false
+1553,Zentra Face Wash,Beauty,Zentra,44923.25,23242.36,263,6,true
+1554,Nova Cookware Set,Home,Nova,31382.96,16437.56,322,50,true
+1555,Brightly Face Wash,Beauty,Brightly,26932.94,18744.25,499,48,false
+1556,Apex Webcam,Electronics,Apex,1284.27,900.15,19,6,true
+1557,Zentra Keyboard,Electronics,Zentra,27947.4,18200.38,116,17,false
+1558,Everday Sunscreen,Beauty,Everday,21706.95,9896.46,344,8,true
+1559,Nova Yoga Mat,Sports,Nova,35073.01,16673.93,475,33,true
+1560,Zentra Watch,Fashion,Zentra,30366.64,16657.05,474,29,false
+1561,Orbito Face Wash,Beauty,Orbito,7899.54,4162.69,382,26,true
+1562,Pulse Desk,Home,Pulse,47872.84,21729.61,447,36,true
+1563,Nova Headphones,Electronics,Nova,28677.66,16860.42,280,6,true
+1564,Pulse Bedsheet,Home,Pulse,10664.67,8179.48,435,33,true
+1565,Brightly Chair,Home,Brightly,30881.56,16628.47,58,12,true
+1566,UrbanNest Cricket Bat,Sports,UrbanNest,14602.57,6915.44,50,13,false
+1567,Apex Sneakers,Fashion,Apex,33596.65,17876.32,145,40,true
+1568,Orbito Desk,Home,Orbito,22586.23,15036.1,156,45,true
+1569,Pulse Water Bottle,Sports,Pulse,40403.22,31737.97,86,1,true
+1570,Everday Chair,Home,Everday,13905.32,8006.96,347,47,true
+1571,Orbito Sunscreen,Beauty,Orbito,18000.21,10024.59,282,7,true
+1572,Zentra Yoga Mat,Sports,Zentra,42948.81,21431.48,275,13,true
+1573,UrbanNest Webcam,Electronics,UrbanNest,44615.05,33343.31,323,2,false
+1574,Nova Dumbbells,Sports,Nova,27623.54,17684.98,276,31,true
+1575,Brightly Jacket,Fashion,Brightly,44581.73,29261.68,438,19,true
+1576,UrbanNest Perfume,Beauty,UrbanNest,19898.58,12451.71,339,16,true
+1577,Orbito Dumbbells,Sports,Orbito,8044.2,5214.45,289,43,true
+1578,Nova Shampoo,Beauty,Nova,11018.07,6838.64,32,17,true
+1579,Brightly Lamp,Home,Brightly,25941.47,18859.74,198,31,false
+1580,Pulse Headphones,Electronics,Pulse,5249.93,4141.96,324,18,true
+1581,Apex Water Bottle,Sports,Apex,18894.31,11005.59,300,42,true
+1582,Everday Football,Sports,Everday,48635.44,25680.23,207,23,true
+1583,Nova Sunscreen,Beauty,Nova,25140.67,12536.12,84,15,true
+1584,Brightly Football,Sports,Brightly,7596.0,3836.55,308,46,true
+1585,Pulse Storage Box,Home,Pulse,36039.76,22291.7,245,31,true
+1586,Everday Dumbbells,Sports,Everday,1219.06,566.99,293,38,true
+1587,Nova Bedsheet,Home,Nova,44549.8,22337.39,85,17,true
+1588,Nova Cricket Bat,Sports,Nova,43936.6,30966.12,420,19,true
+1589,Orbito Storage Box,Home,Orbito,43377.39,22109.39,425,27,true
+1590,Zentra Dumbbells,Sports,Zentra,8468.31,5842.77,472,30,true
+1591,Everday Storage Box,Home,Everday,6696.44,3052.22,267,33,false
+1592,UrbanNest Cookware Set,Home,UrbanNest,8952.37,6853.6,307,3,true
+1593,Apex Monitor,Electronics,Apex,45108.04,28812.76,0,50,false
+1594,Pulse Cricket Bat,Sports,Pulse,43752.73,30372.05,219,15,false
+1595,UrbanNest Shampoo,Beauty,UrbanNest,21330.92,11499.1,392,15,true
+1596,Everday Backpack,Fashion,Everday,12963.47,5858.38,380,1,true
+1597,Everday Yoga Mat,Sports,Everday,32760.85,22628.52,161,27,true
+1598,Everday Keyboard,Electronics,Everday,32612.64,17570.76,437,35,false
+1599,Zentra Football,Sports,Zentra,49589.75,29213.77,104,27,false
+1600,Orbito Desk,Home,Orbito,12762.5,7112.91,176,50,false
+1601,UrbanNest Bedsheet,Home,UrbanNest,37414.93,22684.98,358,11,true
+1602,Everday Cookware Set,Home,Everday,39324.45,28718.6,314,45,true
+1603,Nova Storage Box,Home,Nova,40237.03,29700.54,241,39,false
+1604,Zentra Headphones,Electronics,Zentra,11165.34,5337.19,19,47,false
+1605,Zentra Perfume,Beauty,Zentra,35608.13,23469.87,484,50,true
+1606,Nova Sunscreen,Beauty,Nova,10164.19,6910.73,411,34,true
+1607,Brightly Lamp,Home,Brightly,30796.98,21123.91,184,16,true
+1608,Zentra Lamp,Home,Zentra,39004.68,22372.88,202,26,true
+1609,UrbanNest Yoga Mat,Sports,UrbanNest,45965.95,29526.57,371,36,true
+1610,Brightly Sneakers,Fashion,Brightly,30356.53,15727.23,476,26,true
+1611,Everday Jeans,Fashion,Everday,25360.28,16370.59,257,19,true
+1612,Zentra Charger,Electronics,Zentra,43817.04,32188.07,294,17,false
+1613,Orbito Perfume,Beauty,Orbito,38520.36,27546.51,492,50,false
+1614,Nova Perfume,Beauty,Nova,24149.31,13046.35,195,41,true
+1615,Everday Desk,Home,Everday,47775.74,30135.81,4,45,true
+1616,UrbanNest Desk,Home,UrbanNest,20005.64,14245.53,175,5,true
+1617,Pulse Shampoo,Beauty,Pulse,11005.45,7162.34,93,48,true
+1618,Brightly Moisturizer,Beauty,Brightly,36796.91,27798.59,105,15,true
+1619,Pulse Cookware Set,Home,Pulse,7883.18,3841.8,471,6,false
+1620,Nova Yoga Mat,Sports,Nova,42414.73,24597.1,161,32,true
+1621,Zentra Moisturizer,Beauty,Zentra,19953.19,14217.83,65,4,false
+1622,Nova Perfume,Beauty,Nova,25172.51,14796.42,351,50,true
+1623,Orbito Face Wash,Beauty,Orbito,15850.0,7179.2,345,14,false
+1624,Pulse Yoga Mat,Sports,Pulse,18142.96,13637.06,95,36,true
+1625,Orbito Desk,Home,Orbito,47929.49,27323.82,94,32,false
+1626,Pulse Storage Box,Home,Pulse,18316.39,10810.47,230,12,true
+1627,UrbanNest Dumbbells,Sports,UrbanNest,36067.69,26381.01,284,28,false
+1628,Apex Chair,Home,Apex,23701.05,10746.29,215,32,true
+1629,Pulse Water Bottle,Sports,Pulse,39287.11,21804.82,287,37,true
+1630,Apex Face Wash,Beauty,Apex,3094.82,2274.19,243,41,true
+1631,Zentra Shampoo,Beauty,Zentra,18111.0,11701.92,477,17,true
+1632,UrbanNest Monitor,Electronics,UrbanNest,17618.42,12118.92,310,13,true
+1633,Pulse Sneakers,Fashion,Pulse,33691.32,20909.6,377,29,true
+1634,Zentra Perfume,Beauty,Zentra,23240.23,18239.12,444,11,true
+1635,Everday Perfume,Beauty,Everday,42459.15,20166.84,82,22,true
+1636,Zentra Sneakers,Fashion,Zentra,35549.63,23529.76,202,18,false
+1637,Orbito Watch,Fashion,Orbito,20757.05,10676.6,11,9,true
+1638,UrbanNest Watch,Fashion,UrbanNest,10606.52,6246.88,48,5,false
+1639,Nova Yoga Mat,Sports,Nova,38568.59,24429.11,42,7,true
+1640,UrbanNest Dumbbells,Sports,UrbanNest,32775.15,24906.33,158,15,true
+1641,Apex Jacket,Fashion,Apex,6649.73,4943.95,14,3,true
+1642,Orbito Jacket,Fashion,Orbito,48750.58,31161.59,139,36,false
+1643,Apex Bedsheet,Home,Apex,29581.46,18038.48,383,41,false
+1644,Zentra Water Bottle,Sports,Zentra,45454.27,28117.02,116,6,false
+1645,Everday Sneakers,Fashion,Everday,13063.37,7266.51,0,34,true
+1646,Orbito Sneakers,Fashion,Orbito,26800.43,18511.58,251,49,false
+1647,Everday T-Shirt,Fashion,Everday,39917.44,26303.65,407,1,true
+1648,Everday Storage Box,Home,Everday,19797.13,10040.0,377,42,false
+1649,Zentra Moisturizer,Beauty,Zentra,4051.57,2709.95,264,49,true
+1650,Zentra Watch,Fashion,Zentra,20702.9,15500.65,93,9,true
+1651,Orbito Webcam,Electronics,Orbito,30923.7,16861.05,318,32,true
+1652,Apex T-Shirt,Fashion,Apex,2575.64,1641.3,95,7,true
+1653,Orbito Jeans,Fashion,Orbito,36381.64,19336.25,77,1,false
+1654,Everday Desk,Home,Everday,15646.68,11419.13,190,30,true
+1655,Apex T-Shirt,Fashion,Apex,2895.31,2088.9,36,35,false
+1656,Zentra Chair,Home,Zentra,40879.81,30246.49,62,50,true
+1657,Brightly Sunscreen,Beauty,Brightly,36906.19,17040.64,235,48,true
+1658,Orbito Dumbbells,Sports,Orbito,19516.24,15348.06,479,21,true
+1659,UrbanNest Webcam,Electronics,UrbanNest,12739.31,8579.7,101,24,true
+1660,Brightly Lamp,Home,Brightly,31681.16,17854.86,85,18,true
+1661,Nova Moisturizer,Beauty,Nova,48443.86,31652.1,353,31,true
+1662,Brightly T-Shirt,Fashion,Brightly,7968.15,3840.57,316,22,true
+1663,Apex Mouse,Electronics,Apex,35095.27,25514.72,64,32,true
+1664,Pulse Backpack,Fashion,Pulse,40294.72,24319.94,98,2,false
+1665,Apex Watch,Fashion,Apex,12608.74,5848.2,361,29,true
+1666,Brightly Cricket Bat,Sports,Brightly,28377.42,18169.13,165,47,false
+1667,Apex Backpack,Fashion,Apex,3535.94,1783.03,151,17,true
+1668,Everday Face Wash,Beauty,Everday,36708.52,27862.73,317,24,true
+1669,UrbanNest Watch,Fashion,UrbanNest,32947.64,21041.51,198,13,false
+1670,Zentra Dumbbells,Sports,Zentra,16196.74,10921.73,56,7,true
+1671,Apex Charger,Electronics,Apex,9013.08,4154.54,54,32,true
+1672,Everday Headphones,Electronics,Everday,32929.27,20878.39,359,38,true
+1673,Brightly Mouse,Electronics,Brightly,30336.09,14403.75,476,14,false
+1674,Nova Monitor,Electronics,Nova,18109.21,12861.47,455,27,true
+1675,Zentra Charger,Electronics,Zentra,26497.14,18733.61,427,20,true
+1676,UrbanNest Cookware Set,Home,UrbanNest,5150.13,2733.98,197,13,true
+1677,Apex Dumbbells,Sports,Apex,27964.33,18046.77,382,7,true
+1678,UrbanNest Sunscreen,Beauty,UrbanNest,8422.79,4322.06,205,33,true
+1679,Orbito Cookware Set,Home,Orbito,46681.65,35752.06,281,21,true
+1680,Pulse Sunscreen,Beauty,Pulse,30458.83,19709.93,109,25,true
+1681,Orbito Jacket,Fashion,Orbito,47994.24,21600.69,17,19,true
+1682,Zentra Dumbbells,Sports,Zentra,426.78,339.09,109,21,true
+1683,Apex Backpack,Fashion,Apex,4803.93,2935.82,79,9,true
+1684,Brightly Backpack,Fashion,Brightly,11725.41,8605.0,47,37,false
+1685,UrbanNest Dumbbells,Sports,UrbanNest,36205.67,26340.22,88,32,true
+1686,Nova Football,Sports,Nova,36565.39,23829.64,40,50,true
+1687,Everday Sneakers,Fashion,Everday,20883.43,15740.69,445,50,true
+1688,Everday Yoga Mat,Sports,Everday,2799.98,1773.88,163,35,true
+1689,Brightly Backpack,Fashion,Brightly,7743.55,5310.31,201,29,true
+1690,Zentra Storage Box,Home,Zentra,39338.78,19740.37,172,6,false
+1691,Everday Yoga Mat,Sports,Everday,13200.64,7781.57,222,50,true
+1692,Brightly Storage Box,Home,Brightly,24443.27,16579.55,100,36,true
+1693,Zentra Lamp,Home,Zentra,38859.92,21885.68,473,37,true
+1694,Everday Webcam,Electronics,Everday,21233.68,12143.71,164,23,true
+1695,Pulse Jeans,Fashion,Pulse,30848.43,24572.49,226,40,true
+1696,Brightly Face Wash,Beauty,Brightly,10063.29,5845.13,387,47,true
+1697,Nova Webcam,Electronics,Nova,12227.11,8159.77,75,19,true
+1698,UrbanNest Watch,Fashion,UrbanNest,15324.39,9423.22,169,14,true
+1699,Zentra Cookware Set,Home,Zentra,27484.12,18361.17,72,45,true
+1700,Nova Perfume,Beauty,Nova,12846.27,6051.09,102,45,true
+1701,Nova Monitor,Electronics,Nova,3422.23,2330.99,339,43,true
+1702,Zentra Headphones,Electronics,Zentra,43382.78,29382.89,118,25,true
+1703,UrbanNest Jacket,Fashion,UrbanNest,9401.23,5877.91,234,36,true
+1704,Zentra Keyboard,Electronics,Zentra,16744.12,9840.35,80,2,true
+1705,Zentra Sneakers,Fashion,Zentra,11885.62,9417.99,256,18,true
+1706,Nova Jacket,Fashion,Nova,47211.42,36928.34,115,10,true
+1707,UrbanNest Moisturizer,Beauty,UrbanNest,36520.49,23090.13,347,40,true
+1708,Apex Moisturizer,Beauty,Apex,21379.6,11958.34,309,22,false
+1709,Brightly Dumbbells,Sports,Brightly,32657.39,21337.06,350,13,true
+1710,Apex Watch,Fashion,Apex,21559.21,16560.72,394,10,true
+1711,UrbanNest T-Shirt,Fashion,UrbanNest,9287.35,6908.24,74,47,true
+1712,Everday Jacket,Fashion,Everday,15236.07,10832.29,420,41,true
+1713,UrbanNest Chair,Home,UrbanNest,6663.14,3059.51,313,40,true
+1714,Brightly Water Bottle,Sports,Brightly,29857.4,15848.89,13,23,true
+1715,Orbito Moisturizer,Beauty,Orbito,35628.75,20696.23,436,25,false
+1716,Apex Moisturizer,Beauty,Apex,9742.67,4494.1,391,1,true
+1717,Brightly Moisturizer,Beauty,Brightly,37912.05,17938.0,474,29,false
+1718,Brightly Jacket,Fashion,Brightly,21434.03,15468.41,311,48,false
+1719,Nova Jacket,Fashion,Nova,26079.39,15857.92,423,3,true
+1720,Everday Water Bottle,Sports,Everday,49192.15,22812.27,198,34,true
+1721,Orbito Desk,Home,Orbito,19961.19,11110.28,423,19,false
+1722,Zentra Storage Box,Home,Zentra,30694.4,14398.48,264,10,false
+1723,UrbanNest Face Wash,Beauty,UrbanNest,9069.59,5939.74,457,45,true
+1724,Pulse Sunscreen,Beauty,Pulse,22598.2,11584.01,302,46,true
+1725,Zentra Face Wash,Beauty,Zentra,16270.33,11015.04,364,11,true
+1726,Orbito Headphones,Electronics,Orbito,31739.21,15230.29,362,25,true
+1727,Everday Perfume,Beauty,Everday,2289.91,1167.42,171,37,true
+1728,Apex Chair,Home,Apex,38479.92,18007.01,157,20,false
+1729,Apex Watch,Fashion,Apex,5964.94,2958.91,103,1,true
+1730,Orbito Monitor,Electronics,Orbito,42784.01,27391.41,2,39,false
+1731,Orbito Chair,Home,Orbito,22740.55,13750.22,307,39,true
+1732,Zentra Cookware Set,Home,Zentra,31025.33,20015.74,422,14,true
+1733,Nova Chair,Home,Nova,32697.52,15134.12,437,3,true
+1734,Nova T-Shirt,Fashion,Nova,5532.49,4413.86,82,44,true
+1735,Apex Water Bottle,Sports,Apex,48317.03,34414.63,184,3,true
+1736,Pulse Sneakers,Fashion,Pulse,44885.74,33084.95,388,28,true
+1737,Apex Jacket,Fashion,Apex,6187.96,4645.88,168,34,false
+1738,Brightly Dumbbells,Sports,Brightly,30640.48,14960.39,373,41,true
+1739,Zentra Perfume,Beauty,Zentra,21408.97,15986.7,132,34,true
+1740,Orbito Cookware Set,Home,Orbito,26032.32,17471.6,252,12,true
+1741,Nova Jeans,Fashion,Nova,5997.54,3674.75,407,8,true
+1742,Everday Cricket Bat,Sports,Everday,2369.06,1356.0,412,41,true
+1743,Brightly Webcam,Electronics,Brightly,34530.85,18613.72,34,20,true
+1744,Pulse Water Bottle,Sports,Pulse,38373.93,18797.2,170,22,false
+1745,Nova Water Bottle,Sports,Nova,41617.93,21554.15,426,22,false
+1746,Apex Face Wash,Beauty,Apex,24125.63,16152.6,456,35,true
+1747,Nova Sunscreen,Beauty,Nova,41770.78,23173.19,371,44,true
+1748,Nova Water Bottle,Sports,Nova,10491.3,7238.19,409,23,true
+1749,Nova Desk,Home,Nova,17022.71,9895.88,273,11,false
+1750,UrbanNest Cookware Set,Home,UrbanNest,43242.23,30833.4,361,21,true
+1751,UrbanNest Jacket,Fashion,UrbanNest,24902.02,13277.13,231,20,true
+1752,Apex Football,Sports,Apex,5699.34,4130.48,398,13,true
+1753,Nova Perfume,Beauty,Nova,39970.36,30646.66,78,13,true
+1754,Zentra Perfume,Beauty,Zentra,38798.11,19405.0,446,7,true
+1755,Nova Bedsheet,Home,Nova,23021.48,16110.13,267,8,true
+1756,UrbanNest T-Shirt,Fashion,UrbanNest,16730.16,12735.25,52,34,true
+1757,Zentra Speaker,Electronics,Zentra,31977.66,16738.58,102,13,true
+1758,Pulse Backpack,Fashion,Pulse,38661.08,26478.72,139,10,true
+1759,Nova T-Shirt,Fashion,Nova,47918.07,30948.8,52,14,true
+1760,Zentra Football,Sports,Zentra,7162.69,4988.98,145,37,true
+1761,Zentra Lamp,Home,Zentra,30700.82,17455.22,227,4,true
+1762,Nova Monitor,Electronics,Nova,5384.75,2524.53,218,26,true
+1763,Orbito Water Bottle,Sports,Orbito,30853.14,17257.83,418,13,true
+1764,Apex Perfume,Beauty,Apex,4735.52,3460.83,357,30,true
+1765,Orbito Shampoo,Beauty,Orbito,23579.24,18429.7,73,40,true
+1766,Apex Jacket,Fashion,Apex,35009.77,23905.13,403,21,false
+1767,UrbanNest Face Wash,Beauty,UrbanNest,23818.18,13647.92,236,11,true
+1768,Apex Backpack,Fashion,Apex,25445.69,15063.6,365,7,true
+1769,Zentra Yoga Mat,Sports,Zentra,26683.0,15750.6,211,16,true
+1770,Orbito Dumbbells,Sports,Orbito,19251.44,10958.88,416,45,false
+1771,Pulse Perfume,Beauty,Pulse,27270.89,14525.95,339,43,true
+1772,UrbanNest Cricket Bat,Sports,UrbanNest,29647.94,18145.07,284,7,false
+1773,Everday Desk,Home,Everday,3572.42,1743.56,416,39,false
+1774,Nova Jacket,Fashion,Nova,4616.6,3397.64,454,38,true
+1775,Apex Bedsheet,Home,Apex,22702.42,12532.33,315,37,false
+1776,Pulse Chair,Home,Pulse,15055.79,10960.94,347,20,false
+1777,Nova T-Shirt,Fashion,Nova,30612.39,19244.43,433,9,true
+1778,Nova Mouse,Electronics,Nova,141.08,91.14,183,8,true
+1779,Everday Keyboard,Electronics,Everday,35139.87,20662.03,162,46,false
+1780,Everday Sunscreen,Beauty,Everday,27300.43,18615.36,243,9,true
+1781,Pulse Cricket Bat,Sports,Pulse,42013.14,21174.35,446,43,true
+1782,UrbanNest Lamp,Home,UrbanNest,32453.62,16239.74,453,32,false
+1783,Apex Lamp,Home,Apex,32146.92,19145.08,233,45,false
+1784,Orbito Dumbbells,Sports,Orbito,25518.8,16414.14,230,25,true
+1785,Everday Chair,Home,Everday,30267.21,19742.65,433,47,true
+1786,Everday Football,Sports,Everday,46334.57,30197.32,17,3,false
+1787,Orbito T-Shirt,Fashion,Orbito,48089.71,22987.94,373,47,true
+1788,UrbanNest Perfume,Beauty,UrbanNest,26214.5,17393.97,125,31,true
+1789,Zentra Water Bottle,Sports,Zentra,30689.65,23516.09,273,50,true
+1790,Orbito Sunscreen,Beauty,Orbito,28739.87,16267.63,180,19,true
+1791,Zentra Lamp,Home,Zentra,36374.89,23545.36,31,41,false
+1792,Nova Dumbbells,Sports,Nova,32849.36,18136.58,377,40,true
+1793,UrbanNest Jacket,Fashion,UrbanNest,6427.38,3065.23,401,18,true
+1794,Zentra Cookware Set,Home,Zentra,13832.33,7468.55,379,8,true
+1795,Orbito Dumbbells,Sports,Orbito,18550.36,9486.46,400,45,true
+1796,Nova Moisturizer,Beauty,Nova,17207.11,8251.51,74,39,true
+1797,Everday Sunscreen,Beauty,Everday,11972.58,7232.21,326,11,true
+1798,Nova Football,Sports,Nova,32147.83,22967.03,59,4,true
+1799,Orbito Sunscreen,Beauty,Orbito,15137.22,10764.87,385,35,true
+1800,Orbito Sunscreen,Beauty,Orbito,13204.0,8393.19,222,1,true
+1801,Pulse Sunscreen,Beauty,Pulse,48090.96,33134.99,21,7,true
+1802,Zentra Perfume,Beauty,Zentra,16813.87,9138.01,50,17,false
+1803,Brightly Moisturizer,Beauty,Brightly,26044.62,17897.9,92,21,true
+1804,UrbanNest Charger,Electronics,UrbanNest,695.87,336.94,53,44,false
+1805,Zentra Jeans,Fashion,Zentra,12668.62,5851.82,317,6,true
+1806,UrbanNest Dumbbells,Sports,UrbanNest,35431.95,17432.24,438,39,true
+1807,Apex Perfume,Beauty,Apex,44809.48,31074.42,129,19,false
+1808,Orbito Webcam,Electronics,Orbito,46141.5,25227.14,218,45,true
+1809,UrbanNest Jeans,Fashion,UrbanNest,13935.65,6575.34,198,22,true
+1810,Apex Sneakers,Fashion,Apex,22083.68,13738.32,475,13,false
+1811,Orbito Bedsheet,Home,Orbito,5509.68,3521.9,220,14,true
+1812,UrbanNest Shampoo,Beauty,UrbanNest,1838.56,872.66,372,17,false
+1813,Apex Monitor,Electronics,Apex,32676.98,14714.56,19,43,false
+1814,Pulse Jeans,Fashion,Pulse,45239.42,29456.48,263,46,false
+1815,Everday Sunscreen,Beauty,Everday,42217.05,30536.77,402,5,true
+1816,Orbito Monitor,Electronics,Orbito,6147.06,3917.87,183,22,true
+1817,UrbanNest Face Wash,Beauty,UrbanNest,18330.23,13723.29,174,6,false
+1818,Brightly Watch,Fashion,Brightly,8912.25,4133.2,196,43,true
+1819,Everday Watch,Fashion,Everday,44832.39,30069.8,183,32,true
+1820,Apex Moisturizer,Beauty,Apex,1880.34,862.85,303,16,false
+1821,Zentra Face Wash,Beauty,Zentra,25033.24,19719.53,415,29,true
+1822,Nova Mouse,Electronics,Nova,16951.16,11905.72,207,8,true
+1823,Apex Cricket Bat,Sports,Apex,37077.47,19708.34,36,3,true
+1824,Orbito Face Wash,Beauty,Orbito,45367.23,30234.09,124,45,true
+1825,Nova Keyboard,Electronics,Nova,45241.65,33354.8,49,30,true
+1826,UrbanNest Yoga Mat,Sports,UrbanNest,5796.57,3815.55,315,15,true
+1827,Pulse Storage Box,Home,Pulse,40593.9,32222.12,347,26,true
+1828,Apex Webcam,Electronics,Apex,16146.34,12717.54,109,49,true
+1829,Pulse Dumbbells,Sports,Pulse,3253.77,1776.11,387,27,true
+1830,Apex Backpack,Fashion,Apex,21988.19,17018.56,20,9,true
+1831,Apex Cricket Bat,Sports,Apex,878.95,545.33,3,1,true
+1832,Zentra Webcam,Electronics,Zentra,20868.49,15288.13,395,31,true
+1833,Zentra Chair,Home,Zentra,26201.03,15568.94,480,12,true
+1834,Orbito Dumbbells,Sports,Orbito,30640.29,14732.08,423,20,true
+1835,Brightly Face Wash,Beauty,Brightly,9674.95,7694.6,500,7,true
+1836,Brightly Water Bottle,Sports,Brightly,23263.38,15569.31,106,18,true
+1837,Apex Lamp,Home,Apex,34292.66,27056.94,242,32,true
+1838,Nova Bedsheet,Home,Nova,2794.98,1614.01,107,28,true
+1839,Orbito Backpack,Fashion,Orbito,2260.54,1603.05,473,35,true
+1840,Orbito Lamp,Home,Orbito,25792.7,12246.4,120,47,false
+1841,Pulse Water Bottle,Sports,Pulse,21010.41,14948.49,459,21,true
+1842,Brightly Mouse,Electronics,Brightly,4992.4,3535.68,445,13,false
+1843,Orbito Lamp,Home,Orbito,29295.1,13739.95,223,10,true
+1844,Apex Cricket Bat,Sports,Apex,19426.78,9669.52,368,13,true
+1845,Pulse Jeans,Fashion,Pulse,6446.87,4463.0,30,18,true
+1846,Orbito Charger,Electronics,Orbito,22982.09,11719.04,175,15,true
+1847,Apex Dumbbells,Sports,Apex,28947.26,18626.53,117,6,false
+1848,Brightly Cricket Bat,Sports,Brightly,29618.89,22005.24,142,1,false
+1849,Pulse Chair,Home,Pulse,21768.01,11490.08,474,38,true
+1850,Everday Yoga Mat,Sports,Everday,49010.18,22741.73,240,47,true
+1851,Everday Perfume,Beauty,Everday,24014.54,17513.95,420,7,false
+1852,UrbanNest Moisturizer,Beauty,UrbanNest,27967.5,12706.98,374,27,true
+1853,Zentra Desk,Home,Zentra,12028.21,9618.15,8,31,true
+1854,Orbito Bedsheet,Home,Orbito,42909.31,30532.13,12,30,false
+1855,Everday Bedsheet,Home,Everday,9327.79,7042.88,320,30,true
+1856,Pulse Monitor,Electronics,Pulse,26591.92,14726.78,385,18,true
+1857,Pulse Speaker,Electronics,Pulse,36813.46,17272.29,484,44,true
+1858,Everday Headphones,Electronics,Everday,18341.98,12228.54,187,24,true
+1859,Brightly Yoga Mat,Sports,Brightly,7005.45,3973.67,276,8,false
+1860,Brightly Dumbbells,Sports,Brightly,16090.14,12297.32,257,44,false
+1861,UrbanNest T-Shirt,Fashion,UrbanNest,18702.41,11377.49,256,34,true
+1862,Zentra Perfume,Beauty,Zentra,22652.72,13112.55,344,45,true
+1863,UrbanNest Storage Box,Home,UrbanNest,4099.5,3133.17,147,5,true
+1864,UrbanNest Desk,Home,UrbanNest,34883.4,21757.3,447,14,true
+1865,Apex Jacket,Fashion,Apex,23746.86,14177.96,377,42,true
+1866,UrbanNest Jeans,Fashion,UrbanNest,1198.63,875.83,427,34,true
+1867,Pulse Perfume,Beauty,Pulse,32821.45,23808.3,248,38,false
+1868,Apex Shampoo,Beauty,Apex,44923.27,25034.54,404,17,true
+1869,Zentra Shampoo,Beauty,Zentra,38509.51,17967.06,180,19,false
+1870,Apex Cookware Set,Home,Apex,35618.43,19584.31,498,12,true
+1871,UrbanNest Chair,Home,UrbanNest,2152.46,1207.14,64,29,true
+1872,Brightly Jeans,Fashion,Brightly,28167.11,13017.18,162,23,true
+1873,Apex Jacket,Fashion,Apex,26727.78,13164.01,12,26,false
+1874,Pulse Storage Box,Home,Pulse,7886.06,6226.46,279,33,true
+1875,Zentra Jacket,Fashion,Zentra,48482.32,34614.27,293,43,true
+1876,Pulse Cricket Bat,Sports,Pulse,34487.43,24350.68,460,3,true
+1877,Zentra Yoga Mat,Sports,Zentra,1336.3,890.15,112,29,true
+1878,Nova Mouse,Electronics,Nova,30445.75,15780.11,269,15,true
+1879,UrbanNest Lamp,Home,UrbanNest,26965.77,16338.84,343,6,false
+1880,Pulse Storage Box,Home,Pulse,30197.28,18995.43,28,43,true
+1881,Everday Moisturizer,Beauty,Everday,18543.54,10764.36,145,23,true
+1882,UrbanNest Jacket,Fashion,UrbanNest,10862.19,8263.21,379,27,false
+1883,Everday Jeans,Fashion,Everday,36456.42,21690.4,427,38,true
+1884,Zentra Chair,Home,Zentra,23782.2,17923.08,171,5,false
+1885,Everday Headphones,Electronics,Everday,31975.42,17447.87,89,36,false
+1886,Brightly Dumbbells,Sports,Brightly,9380.72,5474.77,283,32,true
+1887,Zentra Backpack,Fashion,Zentra,24754.61,17549.77,114,2,true
+1888,Zentra Desk,Home,Zentra,47804.73,35470.4,241,8,true
+1889,Orbito Moisturizer,Beauty,Orbito,45347.98,30640.5,14,8,true
+1890,Pulse Face Wash,Beauty,Pulse,29094.18,18851.61,444,17,false
+1891,Nova Mouse,Electronics,Nova,42278.48,21435.04,29,10,true
+1892,Pulse Moisturizer,Beauty,Pulse,8248.11,4498.8,214,41,true
+1893,Zentra Mouse,Electronics,Zentra,26526.66,20630.07,263,13,true
+1894,Apex Speaker,Electronics,Apex,27230.25,20568.51,423,44,true
+1895,Pulse Watch,Fashion,Pulse,4881.09,3187.43,421,10,true
+1896,Zentra Cookware Set,Home,Zentra,18712.41,11596.35,174,11,true
+1897,Brightly Chair,Home,Brightly,41594.52,30292.76,286,40,true
+1898,UrbanNest Sunscreen,Beauty,UrbanNest,5915.63,2933.75,8,31,true
+1899,Pulse Watch,Fashion,Pulse,7035.8,4254.4,305,34,true
+1900,Zentra Bedsheet,Home,Zentra,1534.1,1127.72,113,9,true
+1901,Apex Desk,Home,Apex,10570.07,8386.17,217,45,true
+1902,Orbito Headphones,Electronics,Orbito,37889.97,17614.32,55,3,true
+1903,Zentra Face Wash,Beauty,Zentra,2258.75,1254.91,5,49,true
+1904,Brightly Speaker,Electronics,Brightly,29420.39,15298.85,343,23,true
+1905,Zentra Keyboard,Electronics,Zentra,47443.7,27125.59,82,33,true
+1906,UrbanNest Water Bottle,Sports,UrbanNest,5044.37,3290.68,7,34,true
+1907,Apex Desk,Home,Apex,45091.85,28768.34,498,47,true
+1908,Orbito Cookware Set,Home,Orbito,18385.5,12066.09,225,44,true
+1909,Everday Desk,Home,Everday,21261.18,13394.29,208,8,true
+1910,UrbanNest Monitor,Electronics,UrbanNest,26033.41,16232.76,184,46,true
+1911,UrbanNest Yoga Mat,Sports,UrbanNest,16471.96,8079.54,145,30,true
+1912,Everday Moisturizer,Beauty,Everday,14599.41,10940.48,96,5,false
+1913,Nova Jeans,Fashion,Nova,49935.29,31063.59,53,26,false
+1914,UrbanNest Yoga Mat,Sports,UrbanNest,7253.04,4280.88,302,7,true
+1915,Brightly Mouse,Electronics,Brightly,16996.72,11187.86,206,8,true
+1916,Zentra Sunscreen,Beauty,Zentra,38263.37,27476.55,303,18,false
+1917,Everday Jacket,Fashion,Everday,49376.41,31057.52,75,50,false
+1918,Zentra Headphones,Electronics,Zentra,24517.13,13013.39,482,9,true
+1919,Nova Webcam,Electronics,Nova,41531.59,25930.13,13,12,false
+1920,Apex Football,Sports,Apex,15206.36,10159.85,389,5,false
+1921,Zentra Moisturizer,Beauty,Zentra,33137.45,20597.83,133,35,true
+1922,Nova Water Bottle,Sports,Nova,47632.77,21961.54,220,8,false
+1923,Everday Shampoo,Beauty,Everday,22182.55,10261.5,90,36,true
+1924,Everday Storage Box,Home,Everday,6809.96,4770.4,249,49,true
+1925,Orbito Cricket Bat,Sports,Orbito,23846.96,17861.92,259,4,false
+1926,Everday Jacket,Fashion,Everday,30884.29,17711.13,500,19,true
+1927,Nova Headphones,Electronics,Nova,6496.08,3756.32,414,48,true
+1928,UrbanNest Jacket,Fashion,UrbanNest,21463.59,17110.36,210,23,true
+1929,Brightly Chair,Home,Brightly,32438.33,21324.51,466,45,true
+1930,Pulse T-Shirt,Fashion,Pulse,8570.98,5472.11,19,30,false
+1931,Everday Water Bottle,Sports,Everday,13403.28,9296.32,301,2,true
+1932,Everday Perfume,Beauty,Everday,16187.83,7838.21,250,7,true
+1933,Pulse Jacket,Fashion,Pulse,8413.7,4668.19,496,28,true
+1934,Brightly Face Wash,Beauty,Brightly,14438.04,6737.31,293,26,true
+1935,UrbanNest Yoga Mat,Sports,UrbanNest,29633.05,16170.1,290,34,false
+1936,Pulse Moisturizer,Beauty,Pulse,39802.02,26987.28,154,33,true
+1937,Pulse Perfume,Beauty,Pulse,10082.84,5957.0,319,33,false
+1938,Nova Dumbbells,Sports,Nova,31428.41,19821.22,95,37,false
+1939,Orbito Bedsheet,Home,Orbito,13469.0,9068.33,414,40,false
+1940,Brightly Yoga Mat,Sports,Brightly,18276.31,9169.41,77,48,true
+1941,Pulse Sunscreen,Beauty,Pulse,43022.28,33079.75,324,14,false
+1942,Apex Sneakers,Fashion,Apex,12895.69,8516.72,207,16,true
+1943,Nova Chair,Home,Nova,12353.77,9135.98,237,32,false
+1944,Brightly Face Wash,Beauty,Brightly,8050.99,4007.39,132,18,true
+1945,Orbito Webcam,Electronics,Orbito,39132.46,18367.39,459,6,true
+1946,UrbanNest Football,Sports,UrbanNest,45037.69,26682.69,186,43,true
+1947,Brightly Moisturizer,Beauty,Brightly,5684.42,4019.27,477,8,true
+1948,Brightly Face Wash,Beauty,Brightly,30030.08,21640.18,160,22,false
+1949,Brightly Storage Box,Home,Brightly,7298.47,3731.74,496,18,false
+1950,Nova Shampoo,Beauty,Nova,24567.89,14277.55,485,8,true
+1951,Orbito Cricket Bat,Sports,Orbito,34167.65,26895.42,450,10,true
+1952,Zentra Shampoo,Beauty,Zentra,1150.6,907.11,310,3,true
+1953,Everday Desk,Home,Everday,15531.5,12199.52,185,44,true
+1954,Orbito Dumbbells,Sports,Orbito,19483.7,14971.79,201,17,true
+1955,Brightly Charger,Electronics,Brightly,14940.4,11217.19,82,29,true
+1956,Zentra Face Wash,Beauty,Zentra,43334.58,31986.09,481,32,false
+1957,Everday Shampoo,Beauty,Everday,43849.39,32320.7,422,11,true
+1958,Pulse Yoga Mat,Sports,Pulse,21100.44,14880.69,280,48,true
+1959,Nova Face Wash,Beauty,Nova,32103.5,16511.11,227,42,true
+1960,Brightly Monitor,Electronics,Brightly,31450.98,17606.34,42,8,true
+1961,Apex Cookware Set,Home,Apex,42362.33,29230.59,405,21,false
+1962,Zentra Moisturizer,Beauty,Zentra,8755.6,5757.31,167,19,true
+1963,Pulse Monitor,Electronics,Pulse,9175.27,6943.26,483,37,true
+1964,Brightly Headphones,Electronics,Brightly,45350.55,35869.77,101,17,true
+1965,Everday Monitor,Electronics,Everday,30058.6,15096.57,490,24,true
+1966,Nova Yoga Mat,Sports,Nova,35956.31,21656.69,471,30,false
+1967,Brightly Keyboard,Electronics,Brightly,9607.15,7221.48,400,18,true
+1968,Apex Sunscreen,Beauty,Apex,21621.3,11293.07,110,19,true
+1969,Everday Moisturizer,Beauty,Everday,39642.93,18238.55,499,17,true
+1970,Brightly Cricket Bat,Sports,Brightly,18543.92,12785.91,234,6,true
+1971,Pulse Moisturizer,Beauty,Pulse,48721.52,28704.0,108,46,false
+1972,Zentra Perfume,Beauty,Zentra,3744.48,2415.0,26,22,true
+1973,Nova Shampoo,Beauty,Nova,366.51,229.65,195,20,false
+1974,Nova Jeans,Fashion,Nova,29065.3,15727.29,257,32,true
+1975,UrbanNest Moisturizer,Beauty,UrbanNest,15933.14,10127.87,72,17,true
+1976,Apex T-Shirt,Fashion,Apex,25009.61,19774.6,143,48,true
+1977,Zentra Shampoo,Beauty,Zentra,30684.29,21986.75,135,34,true
+1978,Pulse Moisturizer,Beauty,Pulse,36868.77,22930.39,486,10,false
+1979,Apex Keyboard,Electronics,Apex,2821.9,1450.74,240,17,true
+1980,UrbanNest Sunscreen,Beauty,UrbanNest,49759.57,38539.89,20,29,true
+1981,Orbito Cricket Bat,Sports,Orbito,24699.13,18426.62,443,10,true
+1982,Brightly T-Shirt,Fashion,Brightly,43420.84,22284.84,86,48,true
+1983,Brightly Water Bottle,Sports,Brightly,29218.01,23084.26,269,50,true
+1984,Brightly Face Wash,Beauty,Brightly,38434.85,26401.59,454,22,true
+1985,UrbanNest Watch,Fashion,UrbanNest,19768.07,12980.08,487,7,true
+1986,UrbanNest Lamp,Home,UrbanNest,23064.64,16092.14,245,30,true
+1987,Pulse Yoga Mat,Sports,Pulse,48490.55,32957.11,486,29,true
+1988,Brightly Dumbbells,Sports,Brightly,43176.61,31542.47,144,21,true
+1989,Everday Speaker,Electronics,Everday,4717.3,2544.07,122,50,false
+1990,Brightly Headphones,Electronics,Brightly,8229.74,5948.64,145,42,true
+1991,Orbito Mouse,Electronics,Orbito,40073.91,28354.75,471,20,true
+1992,UrbanNest Watch,Fashion,UrbanNest,41618.44,26195.84,250,29,false
+1993,Everday Shampoo,Beauty,Everday,4601.1,2750.94,188,40,true
+1994,UrbanNest Sunscreen,Beauty,UrbanNest,2116.86,1205.79,237,44,true
+1995,UrbanNest Storage Box,Home,UrbanNest,14605.08,8807.95,464,31,true
+1996,Zentra Chair,Home,Zentra,42091.74,26647.53,151,37,true
+1997,Nova Yoga Mat,Sports,Nova,25718.38,16169.87,211,7,false
+1998,Pulse Football,Sports,Pulse,12816.52,6134.23,257,2,true
+1999,Apex Moisturizer,Beauty,Apex,42160.2,19639.93,213,46,true
+2000,Orbito Backpack,Fashion,Orbito,37890.98,23018.08,413,17,true
